@@ -72,7 +72,7 @@ class CurrencyConverterMaterialPagee extends StatelessWidget {
                   color: Colors.black,
                 ),
                 decoration: InputDecoration(
-                  hintText: 'Please Enter the Amount in USD',
+                  hintText: 'Please Enter the Amount in USSD',
                   hintStyle: const TextStyle(
                     color: Colors.black,
                   ),
